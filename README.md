@@ -1,7 +1,5 @@
 # The Payload Modpack
-Modpack for our Minecraft server.
+Modpack for any Minecraft server. Works with Minecraft 1.18.2 w/ Forge installed.
 
-# Express Installer
-
-# Changelog
-See here.
+# Wiki
+For a list of all of the mods included, see the wiki.
